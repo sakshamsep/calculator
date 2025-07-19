@@ -1,0 +1,1 @@
+calculator with very basic functionalities like basic mathematical operators , future updates might provide better UI , backspace button ,operations like decimal notations and better and cleaner 

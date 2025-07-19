@@ -24,7 +24,7 @@ let BOP = "";
 let AOP = "";
 let currentOp = ""
 let result;
-const numbers = document.querySelectorAll(".numbers");
+const numbers = document.querySelectorAll('button');
 
 const display = document.querySelector(".display");
 const clearbtn = document.querySelector(".clearbtn");
